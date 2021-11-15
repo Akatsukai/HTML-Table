@@ -3,7 +3,7 @@ Here are HTML Table. Idk why did I do this. I don’t know, I don’t understand
 
 <html>  
        <head>
-              <title>Dictionary of Tags-Словарь Тегов</title>
+              <title style="text-align:center">Dictionary of Tags-Словарь Тегов</title>
        </head>
        <body>
              <h1 align="center" style="font-size:80px;"><fontcolor="darkred">Таблицa</h1>
