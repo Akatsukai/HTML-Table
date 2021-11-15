@@ -3,10 +3,11 @@ Here are HTML Table. Idk why did I do this. I don’t know, I don’t understand
 
 <html>  
        <head>
-              <title style="text-align:center">Dictionary of Tags-Словарь Тегов</title>
+              
        </head>
        <body>
              <h1 align="center" style="font-size:80px;"><fontcolor="darkred">Table-Таблицa</h1>
+                    <title style="text-align:center">Dictionary of Tags-Словарь Тегов</title>
               <table border="1px solid black" align="center" width="100%" style="border-collapse:collapse">
                      <tr>
                            <td style="background-color:darkred;">Tag-Тег</td>
